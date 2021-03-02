@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'activerecord', '5.1.2'
+gem 'activerecord', '5.2.4.5'
 
 gem 'pg', '0.21.0'
 
