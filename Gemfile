@@ -11,7 +11,7 @@ gem 'sinatra-cross_origin', '0.3.2'
 gem 'sinatra-activerecord', '2.0.13'
 gem 'json', '2.1.0'
 gem 'rake', '12.0.0'
-gem 'sanitize', '4.6.3'
+gem 'sanitize', '5.2.1'
 gem 'string-urlize', '1.0.2'
 gem 'wannabe_bool', '0.6.0'
 
